@@ -2,7 +2,7 @@
 
 ![TimeCraft Preview](./preview.png)
 
-[Live Preview]()
+[Live Preview](https://ajeetkumarrauniyar.github.io/TimeCraft/)
 
 TimeCraft is a beautiful analog clock built entirely using HTML, CSS, and Vanilla JavaScript. This project is part of the 30-day Vanilla JS challenge and represents Day 2 completion.
 
